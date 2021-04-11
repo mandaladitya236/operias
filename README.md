@@ -9,6 +9,7 @@ For a short demo on how this tool works please watch the video at https://youtu.
 
 Usage
 =======
+yesssthis si what to do
 
 To use operias, clone the master branch and execute the following command:
 ```
